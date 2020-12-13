@@ -1,6 +1,6 @@
 .header__title {
-    position: absolute;
-    left:64px;
+    position: relative;
+    margin: 0 0 0 64px;
     align-self: center;
     max-width: 730px;
     width: 100%;
